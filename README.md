@@ -12,6 +12,7 @@
 
 # PROBLEM STATEMENT: 
 The traditional mess management system faces several critical challenges: 
+
 ● Inefficient Meal Recording: Meal records are handwritten, leading to inefficiencies and errors such as lost entries or misrecorded data. Sometimes, students do need to queue to provide their hostel room and roll numbers, which are manually recorded by attendants. This causes delays, particularly during peak hours like noon and dinner. 
 
 ● Error-Prone Billing: Monthly bills are calculated by compiling handwritten records, a process that often results in misplaced entries, miscalculations, or overlooked transactions. 
